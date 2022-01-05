@@ -5,7 +5,8 @@ draft: false
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor cumque magnam aliquid, explicabo amet quasi eveniet reprehenderit dolorum exercitationem maiores provident ex error, tenetur.
 
 header:
-  description: Hello, my name is Yates. I live and work in London. I'm keen on <span class="accent-text">design and photography</span>.
+  description: Hello, my name is Xinge Zhang. I am currently a graduate student studying landscape architecture at penn. I'm keen on <span class="accent-text">design and photography</span>.
+
   image:
     url: home-hero.png
     alt: The top of mountain image
@@ -20,7 +21,7 @@ header:
       cmd: Fit
 text_groups:
   - name: Intro
-    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia esse aut, blanditiis ullam. Similique quo iusto ipsa, excepturi autem voluptate consectetur sit quae praesentium <span class="default-text bold-text">aliquam molestiae</span> minima ex perferendis aut unde tempora amet esse inventore quaerat molestias eum distinctio eligendi ducimus. Commodi voluptatem ab debitis inventore, laborum at maiores reiciendis dolor deleniti ipsam distinctio voluptas eos autem quidem a quia laboriosam similique soluta rem? Eum.
+    description: Out of interest in the landscape theory and the academic framework, I have read a sea of literature on such theories as landscape urbanism. I believe the landscape should build a complete ecological framework for cities, rather than being spaces in the literal sense, and should guide urban/regional development. Over the past four-year study, my design approach has  transformed from solely form-driven narratives to enage deeper inquiry through research, particularly that of  <span class="default-text bold-text">aliquam molestiae</span> minima ex perferendis aut unde tempora amet esse inventore quaerat molestias eum distinctio eligendi ducimus. Commodi voluptatem ab debitis inventore, laborum at maiores reiciendis dolor deleniti ipsam distinctio voluptas eos autem quidem a quia laboriosam similique soluta rem? Eum.
 projects:
   - title: Strato
     type: wed design
@@ -87,3 +88,4 @@ projects:
       - options: 565x420 Center
       - options: 360x318 Center
 ---
+

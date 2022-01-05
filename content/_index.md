@@ -5,8 +5,8 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor cum
   maiores provident ex error, tenetur.
 draft: false
 header:
-  description: Hello, my name is Yates. I live and work in London. I'm keen on <span
-    class="accent-text">design and photography</span>.
+  description: Hello, my name is Xinge Zhang. I am currently a graduate student studying landscape architecture at penn. I'm keen on <span
+    class="accent-text">design and problem sloving</span>.
   image:
     alt: The top of mountain image
     media: '(max-width: 46.25em)'
@@ -19,6 +19,7 @@ header:
     - cmd: Fit
       options: 360x318 jpg
     url: home-hero.png
+    link: https://unsplash.com/photos/yeB9jDmHm6M
 projects:
 - image:
     alt: The Strato web design theme
@@ -29,9 +30,9 @@ projects:
     - options: 565x420
     - options: 360x318 Left
     url: works/strato.jpg
-  link: https://unsplash.com/photos/hpjSkU2UYSU
-  title: Strato
-  type: wed design
+  link: project/Guiyu.pdf
+  title: Revive of Guiyu
+  type: town  planning
 - class: short-col
   image:
     alt: The Analytic web design theme
@@ -43,8 +44,8 @@ projects:
     - options: 360x318
     url: works/analytik.jpg
   link: https://unsplash.com/photos/yeB9jDmHm6M
-  title: Analytik
-  type: UI/UX
+  title: Block the Wind
+  type: prototype design
 - class: wide-col
   image:
     alt: The Friends theme
@@ -56,8 +57,8 @@ projects:
     - options: 360x318 Center
     url: works/friends.jpg
   link: https://unsplash.com/photos/ir5lIkVFqC4
-  title: Friends
-  type: Product Development
+  title: Gathering via Food
+  type: Edible landscape design & Food Dessert Problem Research
 - class: wide-col
   image:
     alt: The Food website for recipes
@@ -69,8 +70,8 @@ projects:
     - options: 360x318 Center
     url: works/food.jpg
   link: https://unsplash.com/photos/JVSgcV8_vb4
-  title: Food
-  type: web design
+  title: Survival in Flood
+  type: Climate Resilience& Design Research
 - class: short-col
   image:
     alt: The application for statistic
@@ -82,16 +83,13 @@ projects:
     - options: 360x318 Center
     url: works/statapp.jpg
   link: https://unsplash.com/photos/nJX74kn1yn4
-  title: StatApp
-  type: UI/UX
+  title: Fragile as a rainbow
+  type: art device
 text_groups:
-- description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia esse
-    aut, blanditiis ullam. Similique quo iusto ipsa, excepturi autem voluptate consectetur
-    sit quae praesentium <span class="default-text bold-text">aliquam molestiae</span>
-    minima ex perferendis aut unde tempora amet esse inventore quaerat molestias eum
-    distinctio eligendi ducimus. Commodi voluptatem ab debitis inventore, laborum
-    at maiores reiciendis dolor deleniti ipsam distinctio voluptas eos autem quidem
-    a quia laboriosam similique soluta rem? Eum.
+- description: Out of interest in the landscape theory and the academic framework, I have read a sea of literature on such theories as landscape urbanism. I believe the landscape should build a complete ecological framework for cities, rather than being spaces in the literal sense, and should guide urban/regional development. Over the past four-year study, my design approach has  transformed from solely form-driven narratives to enage deeper inquiry through research, particularly that of <span class="default-text bold-text">adaptive design.</span>
+    In the future, I hope to stimulate the potential of data science in environmental design and planning decisions, and to explore the boundaries of urban ecological frameworks.
+    
   name: Intro
 title: Home page
 ---
+
