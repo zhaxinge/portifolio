@@ -17,15 +17,13 @@ header:
 
 projects:
 - image:
+    alt: The Strato web design theme
     media: '(max-width: 46.25em)'
     params:
-    - options: 1130x500 jpg
-    - cmd: Fit
-      options: 848x443 jpg
-    - cmd: Fit
-      options: 565x420 jpg
-    - cmd: Fit
-      options: 360x318 jpg
+    - options: 1650x1275
+    - options: 848x443
+    - options: 565x420
+    - options: 360x318 Left
     url: works/1(2).jpg
     
 text_groups:
