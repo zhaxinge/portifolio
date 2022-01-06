@@ -17,7 +17,7 @@ header:
 text_groups:
   - name: Introduction
     description: <p>Guiyu imports a large number of electronic waste from all over the world, and its classification, dismantling, recycling, and the extraction of precious metals such as gold from the cheap waste have allowed Guiyu's people to accumulate wealth in a short time. However, the rough treatment process and a large amount of waste residues also caused serious pollution to the local soil and groundwater in Guiyu. The incineration of organic matter releases a large amount of harmful gases, destroys the ozone layer and causes the greenhouse effect.<br>This case is based on the above background and from the designer’s point of view, combined with Guiyu’s history, geography, location, economic and industrial structure, population structure and other aspects to analyze and think, take the landscape ecological restoration as the starting point, and combine the adjustment and innovation of the industrial structure.  </p>
-body:
+env:
   image:
     alt: The Strato web design theme
     media: '(max-width: 46.25em)'
