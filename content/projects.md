@@ -28,6 +28,5 @@ text_groups:
   -name: Part 2: Strategies
   -name: Industrial Chain Strategies
 description: <img src="images/guiyu/18.jpg?raw=true"/><br>In terms of the development driven by landscape, combined the economic industry theory of reverse logistics and the upgrading of personnel skills, I carried out distribution about the surplus labor in the process of transformation, so as to retain the recycling industry and implement pollution purification.<br><img src="images/food/1.png.jpg?raw=true"/>
-text_groups:
--nam
+
 ---
