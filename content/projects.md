@@ -19,10 +19,13 @@ projects:
 - image:
     media: '(max-width: 46.25em)'
     params:
-    - options: 1130x590
-    - options: 848x443
-    - options: 565x420
-    - options: 360x318 Left
+    - options: 1130x500 jpg
+    - cmd: Fit
+      options: 848x443 jpg
+    - cmd: Fit
+      options: 565x420 jpg
+    - cmd: Fit
+      options: 360x318 jpg
     url: works/1(2).jpg
     
 text_groups:
