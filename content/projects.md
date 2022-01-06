@@ -25,8 +25,17 @@ projects:
     - options: 565x420
     - options: 360x318 Left
     url: works/1 (3).jpg
+- image:
+    alt: The Strato web design theme
+    media: '(max-width: 46.25em)'
+    params:
+    - options: 1130x590 
+    - options: 848x443
+    - options: 565x420
+    - options: 360x318 Left
+    url: works/1 (2).jpg
     
 text_groups:
   - name: Introduction
-    description: <p>Guiyu imports a large number of electronic waste from all over the world, and its classification, dismantling, recycling, and the extraction of precious metals such as gold from the cheap waste have allowed Guiyu's people to accumulate wealth in a short time. However, the rough treatment process and a large amount of waste residues also caused serious pollution to the local soil and groundwater in Guiyu. The incineration of organic matter releases a large amount of harmful gases, destroys the ozone layer and causes the greenhouse effect.<br>This case is based on the above background and from the designer’s point of view, combined with Guiyu’s history, geography, location, economic and industrial structure, population structure and other aspects to analyze and think, take the landscape ecological restoration as the starting point, and combine the adjustment and innovation of the industrial structure.  </p>
+    description: <p> Out of interest in the landscape theory and the academic framework, I have read a sea of literature on such theories as landscape urbanism. I believe the landscape should build a complete ecological framework for cities, rather than being spaces in the literal sense, and should guide urban/regional development. Over the past four-year study, my design approach has transformed from solely form-driven narratives to engage deeper inquiry through research, particularly that of adaptive landscape design. In the future, I hope to stimulate the potential of data science in environmental design and planning decisions, and to explore the boundaries of urban ecological frameworks.   </p>
 ---
