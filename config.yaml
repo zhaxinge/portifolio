@@ -12,13 +12,13 @@ menu:
     weight: 1
     url: /home
   - name: About
-    weight: 1
+    weight: 2
     url: /about
   - name: Contact
-    weight: 2
+    weight: 3
     url: /contact
   - name: Project
-    weight: 3
+    weight: 4
     url: /projects
 
 # Custom params
