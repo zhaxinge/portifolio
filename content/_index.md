@@ -19,7 +19,7 @@ header:
     - cmd: Fit
       options: 360x318 jpg
     url: home-hero.png
-    link: https://unsplash.com/photos/yeB9jDmHm6M
+    name: Get in touch
 projects:
 - image:
     alt: The Strato web design theme
@@ -30,7 +30,7 @@ projects:
     - options: 565x420
     - options: 360x318 Left
     url: works/strato.jpg
-  link: project/Guiyu.pdf
+  link:  https://github.com/zhaxinge/P1
   title: Revive of Guiyu
   type: town  planning
 - class: short-col
@@ -43,7 +43,7 @@ projects:
     - options: 565x420
     - options: 360x318
     url: works/analytik.jpg
-  link: https://unsplash.com/photos/yeB9jDmHm6M
+  link: https://github.com/zhaxinge/project4
   title: Block the Wind
   type: prototype design
 - class: wide-col
@@ -56,7 +56,7 @@ projects:
     - options: 565x420 Left
     - options: 360x318 Center
     url: works/friends.jpg
-  link: https://unsplash.com/photos/ir5lIkVFqC4
+  link: https://github.com/zhaxinge329/project2
   title: Gathering via Food
   type: Edible landscape design & Food Dessert Problem Research
 - class: wide-col
@@ -69,7 +69,7 @@ projects:
     - options: 565x420 Center
     - options: 360x318 Center
     url: works/food.jpg
-  link: https://unsplash.com/photos/JVSgcV8_vb4
+  link: https://github.com/zhaxinge/project3
   title: Survival in Flood
   type: Climate Resilience& Design Research
 - class: short-col
@@ -82,14 +82,11 @@ projects:
     - options: 565x420 Center
     - options: 360x318 Center
     url: works/statapp.jpg
-  link: https://unsplash.com/photos/nJX74kn1yn4
+  link: https://github.com/zhaxinge/project5
   title: Fragile as a rainbow
   type: art device
 text_groups:
-- description: Out of interest in the landscape theory and the academic framework, I have read a sea of literature on such theories as landscape urbanism. I believe the landscape should build a complete ecological framework for cities, rather than being spaces in the literal sense, and should guide urban/regional development. Over the past four-year study, my design approach has  transformed from solely form-driven narratives to enage deeper inquiry through research, particularly that of <span class="default-text bold-text">adaptive design.</span>
-    In the future, I hope to stimulate the potential of data science in environmental design and planning decisions, and to explore the boundaries of urban ecological frameworks.
-    
+- description: Out of interest in the landscape theory and the academic framework, I have read a sea of literature on such theories as landscape urbanism. I believe the landscape should build a complete ecological framework for cities, rather than being spaces in the literal sense, and should guide urban/regional development. Over the past four-year study, my design approach has  transformed from solely form-driven narratives to enage deeper inquiry through research, particularly that of <span class="default-text bold-text">adaptive design.</span>    In the future, I hope to stimulate the potential of data science in environmental design and planning decisions, and to explore the boundaries of urban ecological frameworks.
   name: Intro
 title: Home page
 ---
-
