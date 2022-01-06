@@ -4,8 +4,7 @@ date: 2017-11-09T14:50:58+02:00
 draft: false
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero porro tempore voluptas voluptatibus eius a non numquam, quibusdam enim eos.
 header:
-  description: If you want to start a <span class="accent-text">conversation</span>, just drop me a line and let's create something great together.
-  image:
+  description: 
     url: contact-hero.png
     alt: The chair for meeting image
     media: "(max-width: 46.25em)"
@@ -28,5 +27,4 @@ text_groups:
   -name: Part 2: Strategies
   -name: Industrial Chain Strategies
 description: <img src="images/guiyu/18.jpg?raw=true"/><br>In terms of the development driven by landscape, combined the economic industry theory of reverse logistics and the upgrading of personnel skills, I carried out distribution about the surplus labor in the process of transformation, so as to retain the recycling industry and implement pollution purification.<br><img src="images/food/1.png.jpg?raw=true"/>
-
 ---
