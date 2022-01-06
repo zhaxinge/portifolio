@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Projects
 date: 2017-11-09T14:50:58+02:00
 draft: false
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero porro tempore voluptas voluptatibus eius a non numquam, quibusdam enim eos.
@@ -14,11 +14,7 @@ header:
     - options: 848x443 Center jpg
     - options: 565x420 Center jpg
     - options: 360x318 jpg
-text_groups:
-  - name: Collaboration
-    description: <p>I believe that cities should create a complete ecological framework, not just in the literal sense of space, but a resilient structure that is more adaptable to current urban development and integrated with data and information.</p><br/><p>Let's get started&#58; <a class="accent-text bold-text" href="mailto:zhaxinge@upenn.edu?subject=Hello,%20Xinge!%20Lets%20make%20something%20great%20together!">zhaxinge@upenn.edu</a></p>
----
-
+    
 ## Revive of Guiyu
 
 ### Introduction
@@ -82,3 +78,4 @@ ___
 [1] Global E-waste Recycling Station--Guiyu, Shantou: http://www.rightic.cn/CoreSchool/IndustryNewsDetail/1211
 <br>[2] An Anthropological Survey of the Electronic Dismantling Industry in Guiyu, Shantou: https://www.greenpeace.org.cn/china/Global/china/_planet-2/report/2007/11/guiyu-report.pdf
 <br>[3] Principles and Resources for Site Remediation and Landscape Design https://sites.google.com/site/bi016banyu4/WEh76liyer2067
+---
