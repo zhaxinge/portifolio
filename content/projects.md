@@ -24,7 +24,7 @@ projects:
     - options: 848x443
     - options: 565x420
     - options: 360x318 Left
-    url: works/1(2).jpg
+    url: works/1(3).jpg
     
 text_groups:
   - name: Introduction
