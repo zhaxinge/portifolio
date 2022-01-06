@@ -19,7 +19,7 @@ projects:
 - image:
     media: '(max-width: 46.25em)'
     params:
-    url: works/portfolio_XG_Zhang.pdf
+    url: works/1(1).jpg
 - image:
     media: '(max-width: 46.25em)'
     params:
