@@ -4,7 +4,7 @@ date: 2017-11-09T14:50:58+02:00
 draft: false
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero porro tempore voluptas voluptatibus eius a non numquam, quibusdam enim eos.
 header:
-  description: Revive of Guiyu
+  description: Showcase of my work
   image:
     url: contact-hero.png
     alt: The chair for meeting image
