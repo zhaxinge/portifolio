@@ -33,8 +33,70 @@ projects:
     - options: 848x443
     - options: 565x420
     - options: 360x318 Left
-    url: works/1 (2).jpg
-    
+    url: works/1 (4).jpg
+- image:
+    alt: The Strato web design theme
+    media: '(max-width: 46.25em)'
+    params:
+    - options: 1130x590 
+    - options: 848x443
+    - options: 565x420
+    - options: 360x318 Left
+    url: works/1 (5).jpg
+- image:
+    alt: The Strato web design theme
+    media: '(max-width: 46.25em)'
+    params:
+    - options: 1130x590 
+    - options: 848x443
+    - options: 565x420
+    - options: 360x318 Left
+    url: works/1 (6).jpg
+- image:
+    alt: The Strato web design theme
+    media: '(max-width: 46.25em)'
+    params:
+    - options: 1130x590 
+    - options: 848x443
+    - options: 565x420
+    - options: 360x318 Left
+    url: works/1 (7).jpg
+- image:
+    alt: The Strato web design theme
+    media: '(max-width: 46.25em)'
+    params:
+    - options: 1130x590 
+    - options: 848x443
+    - options: 565x420
+    - options: 360x318 Left
+    url: works/1 (8).jpg
+- image:
+    alt: The Strato web design theme
+    media: '(max-width: 46.25em)'
+    params:
+    - options: 1130x590 
+    - options: 848x443
+    - options: 565x420
+    - options: 360x318 Left
+    url: works/1 (9).jpg
+- image:
+    alt: The Strato web design theme
+    media: '(max-width: 46.25em)'
+    params:
+    - options: 1130x590 
+    - options: 848x443
+    - options: 565x420
+    - options: 360x318 Left
+    url: works/1 (10).jpg
+- image:
+    alt: The Strato web design theme
+    media: '(max-width: 46.25em)'
+    params:
+    - options: 1130x590 
+    - options: 848x443
+    - options: 565x420
+    - options: 360x318 Left
+    url: works/1 (11).jpg
 text_groups:
   - name: Introduction
     description: <p> Out of interest in the landscape theory and the academic framework, I have read a sea of literature on such theories as landscape urbanism. I believe the landscape should build a complete ecological framework for cities, rather than being spaces in the literal sense, and should guide urban/regional development. Over the past four-year study, my design approach has transformed from solely form-driven narratives to engage deeper inquiry through research, particularly that of adaptive landscape design. In the future, I hope to stimulate the potential of data science in environmental design and planning decisions, and to explore the boundaries of urban ecological frameworks.   </p>
