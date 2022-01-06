@@ -27,6 +27,14 @@ projects:
     - options: 565x420
     - options: 360x318 Left
     url: works/strato.jpg
+- image:
+    alt: The Strato web design theme
+    media: '(max-width: 46.25em)'
+    params:
+    - options: 1130x590
+    - options: 848x443
+    - options: 565x420
+    - options: 360x318 Left
+    url: works/strato.jpg
 - class: short-col
-
 ---
