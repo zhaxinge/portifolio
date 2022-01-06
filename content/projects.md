@@ -19,15 +19,11 @@ projects:
 - image:
     media: '(max-width: 46.25em)'
     params:
-    url: works/1(1).jpg
-- image:
-    media: '(max-width: 46.25em)'
-    params:
     - options: 1130x590
     - options: 848x443
     - options: 565x420
     - options: 360x318 Left
-    url: works/strato.jpg
+    url: works/1(2).jpg
     
 text_groups:
   - name: Introduction
