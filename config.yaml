@@ -1,6 +1,6 @@
 baseURL: https://example.com
 languageCode: en-us
-title: Yourfolio Theme
+title: Portfolio of Xinge Zhang
 theme: "yourfolio"
 disableKinds: [RSS, taxonomy, taxonomyTerm]
 googleAnalytics: UA-XXXXX-Y
