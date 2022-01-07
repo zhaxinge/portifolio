@@ -14,6 +14,7 @@ header:
     - options: 848x443 Center jpg
     - options: 565x420 Center jpg
     - options: 360x318 jpg
+    link: https://github.com/zhaxinge/portifolio/blob/main/content/images/portfolio_XG_Zhang.pdf
 
 projects:
 - image:
