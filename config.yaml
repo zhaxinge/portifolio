@@ -11,15 +11,18 @@ menu:
   - name: Home
     weight: 1
     url: /home
-  - name: About
+  - name: Experience
     weight: 2
     url: /about
-  - name: Contact
+  - name: Skills
     weight: 3
-    url: /contact
+    url: /skill
   - name: Project
     weight: 4
     url: /projects
+  - name: Contact
+    weight: 5
+    url: /contact
 
 # Custom params
 params:
