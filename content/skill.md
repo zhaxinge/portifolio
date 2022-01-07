@@ -26,7 +26,5 @@ text_groups:
   description: <span class="default-text bold-text">Microsoft Spreadsheet </span> <br> Microsoft SQL <br><br> 
 - name: New Media Operations
   description: WeChat public operation <br> public tweets based on Xiumi<br>webblog based on Hugo<br> 
-   class: line
+  class: line
 ---
-
-
