@@ -14,7 +14,6 @@ header:
     - options: 848x443 Center jpg
     - options: 565x420 Center jpg
     - options: 360x318 jpg
-    link: https://github.com/zhaxinge/portifolio/blob/main/content/images/portfolio_XG_Zhang.pdf
 
 projects:
 - image:
@@ -26,6 +25,8 @@ projects:
     - options: 565x420
     - options: 360x318 Left
     url: works/1 (3).jpg
+    link: https://github.com/zhaxinge/portifolio/blob/main/content/images/portfolio_XG_Zhang.pdf
+    
 - image:
     alt: The Strato web design theme
     media: '(max-width: 46.25em)'
