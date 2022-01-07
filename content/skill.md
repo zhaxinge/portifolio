@@ -19,7 +19,7 @@ text_groups:
 - name: Graphic Design
   description: 
     <span class="default-text bold-text">Photoshop</span><br>	Indesign<br><span class="default-text bold-text"> Illustrater </span><br><br>
-    07/2021 -01/2022 <br> University of Pennsylvania<br><span class="default-text bold-text">Master of Landscape Architecture </span><br>
+    <br> Aftereffect<br><span class="default-text bold-text">Premiere Pro</span><br>
 - name: 3D Modeling
   description: AutoCAD<br><span class="default-text bold-text">Rhino + Grasshopper</span><br> Sketchup <br><span class="default-text bold-text">ArcGIS Pro</span><br>
 
