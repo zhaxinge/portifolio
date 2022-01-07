@@ -17,7 +17,7 @@ header:
     - options: 490x318 Center jpg
 text_groups:
 - name: Graphic Design
-  description: <span class="default-text bold-text">Photoshop</span><br>	Indesign<br><span class="default-text bold-text"> Illustrater </span><br><br>
+  description: <span class="default-text bold-text">Photoshop</span><br>Indesign<br><span class="default-text bold-text"> Illustrater </span><br><br>
 - name: Video edit
   description: Aftereffect<br><span class="default-text bold-text">Premiere Pro</span><br><br>
 - name: 3D Modeling
