@@ -19,13 +19,12 @@ text_groups:
 - name: Graphic Design
   description: 
     <span class="default-text bold-text">Photoshop</span><br>	Indesign<br><span class="default-text bold-text"> Illustrater </span><br><br>
-    <br> Aftereffect<br><span class="default-text bold-text">Premiere Pro</span><br>
+- name: Video edit
+    <br> Aftereffect<br><span class="default-text bold-text">Premiere Pro</span><br><br>
 - name: 3D Modeling
-  description: AutoCAD<br><span class="default-text bold-text">Rhino + Grasshopper</span><br> Sketchup <br><span class="default-text bold-text">ArcGIS Pro</span><br>
-
-  
+  description: AutoCAD<br><span class="default-text bold-text">Rhino + Grasshopper</span><br> Sketchup <br><span class="default-text bold-text">ArcGIS Pro</span><br> <br> 
 - name: Data Analysis
-  description: <p>04/2021 Art device, Smach Competition, Italy<br>Xinge Zhang	x Jiaqi Qiu</p> <a    href="https://www.smach.it/xinge-zhang-jiaqi-qiu">Fragile as a rainbow</a>  <p>07/2019 SECOND PRIZE UIA-CBA Construction Workshop</p> Beijing Forestry University x Chiba University <p><a href="https://www.gooood.cn/recycling-station-in-the-pear-orchard-china-beijing-forestry-university-chiba-university.htm">Liyuan Garbage Collection Station</a></p><p>05/2020 Renovation Project of Old Neighborhood in Xicheng District, Beijing, China</p> 07/2019 'Field Trip to Buried Hill 'Summer Landscape Workshop for College Students on 		Traditional Chinese Villages<br> <a    href="https://www.bilibili.com/video/av65690649/">Flower House· Bamboo Pavilion</a> 
+  description: <span class="default-text bold-text">Microsoft Spreadsheet </span> <br> Microsoft SQL <br><br> 
 - name: New Media Operations
   description: 07/2020 - 08/2020  Landscape design intern<br> URBANSEAL International Planner & Designer (Beijing) Co., LTD.<br>03/2021-07/2021 Landscape design intern<br>  PMA+Plasma Studio<br>07/2019 - 09/2019 Exhibition Design<br>research exhibited during the International Design Week of Baita Temple 
   class: line
