@@ -43,7 +43,7 @@ projects:
     - options: 565x420
     - options: 360x318
     url: works/analytik.jpg
-  link: https://github.com/zhaxinge/project4
+  link: https://zhaxinge.github.io/project4/
   title: Block the Wind
   type: prototype design
 - class: wide-col
@@ -56,7 +56,7 @@ projects:
     - options: 565x420 Left
     - options: 360x318 Center
     url: works/friends.jpg
-  link: https://github.com/zhaxinge329/project2
+  link: https://zhaxinge.github.io/project2/
   title: Gathering via Food
   type: Edible landscape design & Food Dessert Problem Research
 - class: wide-col
@@ -69,7 +69,7 @@ projects:
     - options: 565x420 Center
     - options: 360x318 Center
     url: works/food.jpg
-  link: https://github.com/zhaxinge/project3
+  link: https://zhaxinge.github.io/project3/
   title: Survival in Flood
   type: Climate Resilience& Design Research
 - class: short-col
@@ -82,7 +82,7 @@ projects:
     - options: 565x420 Center
     - options: 360x318 Center
     url: works/statapp.jpg
-  link: https://github.com/zhaxinge/project5
+  link: https://zhaxinge.github.io/project5/
   title: Fragile as a rainbow
   type: art device
 text_groups:
