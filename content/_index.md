@@ -30,7 +30,7 @@ projects:
     - options: 565x420
     - options: 360x318 Left
     url: works/strato.jpg
-  link:  https://github.com/zhaxinge/P1
+  link:  https://zhaxinge.github.io/project1/
   title: Revive of Guiyu
   type: town  planning
 - class: short-col
