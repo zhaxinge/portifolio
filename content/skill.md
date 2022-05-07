@@ -23,7 +23,8 @@ text_groups:
 - name: 3D Modeling
   description: AutoCAD<br><span class="default-text bold-text">Rhino + Grasshopper</span><br> Sketchup <br><span class="default-text bold-text">ArcGIS Pro</span><br> <br>
 - name: Data Analysis
-  description: <span class="default-text bold-text">Microsoft Spreadsheet </span> <br> Microsoft SQL <br><br> 
+  description: <span class="default-text bold-text">Python (Numpy, Pytorch, Scikitlearn, Pandas) </span> <br>
+               <span class="default-text bold-text">Microsoft Spreadsheet </span> <br>  SQL <br><br> 
 - name: New Media Operations
   description: WeChat public operation <br> public tweets based on Xiumi<br>webblog based on Hugo<br> 
   class: line
