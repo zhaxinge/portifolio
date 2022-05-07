@@ -43,7 +43,7 @@ projects:
     - options: 565x420
     - options: 360x318
     url: works/newplot.png
-  link: https://github.com/zhaxinge/portifolio/blob/main/content/uploads/projects/food_data/Term_Project
+  link: https://github.com/zhaxinge/portifolio/blob/main/content/uploads/projects/food_data/Term_Project.ipynb
   title: Insight in food
   type: Data Analysis & Machine Learning
 - class: wide-col
