@@ -43,9 +43,9 @@ projects:
     - options: 565x420
     - options: 360x318
     url: works/analytik.jpg
-  link: https://github.com/zhaxinge/project4
-  title: Block the Wind
-  type: prototype design
+  link: https://colab.research.google.com/drive/18xaeuF86_e9v7we8dliWsVsfd3LWmirA#scrollTo=ppvKOX4e-uSj
+  title: Insight in food
+  type: Data Analysis & Machine Learning
 - class: wide-col
   image:
     alt: The Friends theme
