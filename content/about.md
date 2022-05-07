@@ -23,6 +23,7 @@ text_groups:
     <span class="default-text bold-text">Bachelor of Engineering in Landscape Architecture </span><br><br>
     07/2019 -08/2019 <br>	University College London, London, UK<br><span class="default-text bold-text">Summer    Project:Energy and future city:Innovative Architecture </span><br><br>
     07/2021 -01/2022 <br> University of Pennsylvania<br><span class="default-text bold-text">Master of Landscape Architecture </span><br>
+    <span class="default-text bold-text">Master of Urban Spatial Analysis</span><br>
 - name: Research
   description: 06/2019 - 06/2021 project leader<br><span class="default-text bold-text">National-level Entrepreneurship and   Innovation Program</span><br>Restoration Research on the Landscape Image of the Ancient Canal based on Beijing Water Conservancy -Taking Ba River as an Example<br>- Classified the historical information of Ba River and collected information of status qu<br>- Compared the information to obtain a feasible restoration method<br>06/2018 - 09/2019 project leader<br><span class="default-text bold-text">School-level Entrepreneurship and   Innovation Program</span><br>Research on Cultural Spirit Activation of Campus Landscape with Micro-transformation <br>- Investigated the historical changes of campus landscape<br>- Analyzed the reason behind campus landscape collages and proposed strategy
 
