@@ -6,7 +6,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores p
   voluptas esse natus nemo aperiam asperiores velit neque, magni molestiae!
 header:
   description: I have a diverse practice background in <span class="accent-text">art,
-    structure, data analysis, landscape design and Greenspace system planning</span>.
+    structure, data analysis, landscape design and system planning</span>.
   image:
     url: about-hero.png
     alt: The designer's workspace table image
