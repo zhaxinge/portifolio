@@ -108,5 +108,5 @@ projects:
     url: works/1 (13).jpg
 text_groups:
   - name: Introduction
-    description: <p> Out of interest in the landscape theory and the academic framework, I have read a sea of literature on such theories as landscape urbanism. I believe the landscape should build a complete ecological framework for cities, rather than being spaces in the literal sense, and should guide urban/regional development. Over the past four-year study, my design approach has transformed from solely form-driven narratives to engage deeper inquiry through research, from  adaptive landscape design to stimulate the potential of data science in environmental design and planning decisions. In the future, I hope to explore the boundaries of deisign and technology.   </p>
+    description: <p> Over the past four-year study, my design approach has transformed from solely <span class="default-text bold-text"> form-driven narratives</span>  to <span class="default-text bold-text"> engage deeper inquiry through research</span> , from <span class="default-text bold-text">adaptive landscape design to stimulate the potential of data science in environmental design and planning decisions</span>. In the future, I hope to explore the boundaries of <span class="default-text bold-text">deisign and technology.</span>  </p>
 ---
