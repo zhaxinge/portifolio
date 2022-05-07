@@ -42,8 +42,8 @@ projects:
     - options: 848x443 Top
     - options: 565x420
     - options: 360x318
-    url: works/analytik.jpg
-  link: https://colab.research.google.com/drive/18xaeuF86_e9v7we8dliWsVsfd3LWmirA#scrollTo=ppvKOX4e-uSj
+    url: works/newplot.png
+  link: https://github.com/zhaxinge/portifolio/blob/main/content/uploads/projects/food_data/Term_Project.ipynb
   title: Insight in Food
   type: Data analysis & Machine Learning
 - class: wide-col
