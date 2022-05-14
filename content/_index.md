@@ -5,8 +5,8 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor cum
   maiores provident ex error, tenetur.
 draft: false
 header:
-  description: Hello, my name is Xinge Zhang. I am currently a graduate student studying landscape architecture and urban spatial analysis at penn. I'm keen on <span
-    class="accent-text">design, analysis and problem sloving</span>.
+  description: Hello, my name is Xinge Zhang. I am currently a graduate student studying landscape architecture and urban spatial analysis at Penn. I'm keen on <span
+    class="accent-text">design, analysis and problem solving</span>.
   image:
     alt: The top of mountain image
     media: '(max-width: 46.25em)'
